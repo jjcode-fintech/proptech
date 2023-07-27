@@ -5,7 +5,7 @@ This project takes San Francisco housing data and using different analysis to he
 
 The analysis was completed using Pandas to refined the data and HVPLOT to help visualize the data. The images below was generated from the analysis. 
 
-(Images/pricing-info-by-neighborhood.png)
-(Images/avg-sale-px-sq-foot-gross-rent.png)
-(Images/zoomed-housing-units-by-year.png)
-(Images/6-4-geoviews-plot.png)
+![image pricing-info-by-neighborhood](Images/pricing-info-by-neighborhood.png)
+![image avg-sale-px-sq-foot-gross-rent](Images/avg-sale-px-sq-foot-gross-rent.png)
+![image zoomed-housing-units-by-year](Images/zoomed-housing-units-by-year.png)
+![image 6-4-geoviews-plot](Images/6-4-geoviews-plot.png)
